@@ -23,6 +23,21 @@
   color: gray;
 word-spacing: 3%
 }
+.btn-timer{
+  height: 50px;
+  width: 240px;
+ 
+  border-radius: 10px;
+  
+}
+.btn{
+  font-size: 18px;
+  padding-right:30px;
+  margin: 10px;
+
+}
+
+
 
 
 
